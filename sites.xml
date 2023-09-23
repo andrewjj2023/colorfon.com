@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.65.0" platform="windows">
+	<Servers>
+		<Server>
+			<Host>colorfon.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>2</Type>
+			<User>eco9xpnrvz5q</User>
+			<Pass encoding="base64">SmF5amF5MjAyMg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>WEBSITE 2023</Name>
+			<LocalDir>C:\Users\colorfon.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
